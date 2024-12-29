@@ -7,7 +7,7 @@ It supports calling, private messaging and group role manageable messaging.
 
 ## Prerequisites
 
-**[Rust]**(https://rust-lang.org/) | As it's the main programing language being used, we of course need it to run Love letter.
+[Rust](https://rust-lang.org/) | As it's the main programing language being used, we of course need it to run Love letter.
 
 **LL suported client** | To make sure Loveletter is able to be interfaced using the client API, we need a client to test and run Loveletter. Like Loveact.
 
