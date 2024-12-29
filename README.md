@@ -20,4 +20,4 @@ cargo run``
 
 And your all set!
 
-# © Mindity Labs AS 2024, under the MIT Licence.
+### © Mindity Labs AS 2024, under the MIT Licence.
